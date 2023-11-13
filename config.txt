@@ -1,0 +1,5 @@
+Game_name:Mordern AU;
+Game_key:1512ede9c61614e;
+Package_name:Mordern consulting room;
+Title_bgm:s_Title.mp3;
+Title_img:title.jpg;

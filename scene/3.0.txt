@@ -1,0 +1,87 @@
+changeBg:socialcenter.jpg;
+miniAvatar:alyosha/novice/sweatsmile.png;
+阿列克赛:终于从早祷那边火急火燎地赶过来了！
+还好今天没有迟到，太好了太好了
+不过修士服还没有换下来，等会找机会再换下来吧。
+changeFigure:kids.png;
+??:阿廖沙哥哥！
+???:是阿廖沙哥哥
+miniAvatar:alyosha/novice/smile.png;
+阿列克赛:你们几个怎么在这里，这么早就在等着接我吗？;
+小朋友:哥哥怎么这次穿着黑袍子来了？
+miniAvatar:alyosha/novice/eyeclosedsmile.png;
+阿列克赛:我来的太急啦，中途可没时间换衣服，
+我等会就会换的，有没有吓到你们？
+小朋友:黑袍子好大，感觉捉迷藏可以躲在里面！
+changeFigure:lisa/smile talk.png;
+??:你们又在欺负阿廖沙吗？
+miniAvatar:alyosha/novice/suprised.png;
+阿列克赛:!!
+changeFigure:lisa/smile talk.png;
+丽兹！你今天怎么来了。好像有很久没看见你了呢
+miniAvatar:none;
+changeFigure:none;
+changeBg:none;
+changeBg:illustration/Socialcenter.jpg;
+丽兹:我正巧顺路去朋友家，所以特地过来看看能不能遇到你，看来你今天的事情也很多啊？
+呀，你怎么连袍子也没有换？
+:（小朋友们躲在了阿廖沙的背后）
+阿列克赛:哈哈，我今天有一个特别早的预约，所以没办法，只好早点赶过来了。
+丽兹:你们几位回避一下吧，我要和阿廖沙单独聊聊天~
+现在走开的话，等会给你们给糖果吃。
+小朋友:好耶————
+:（小朋友离开了）
+changeBg:socialcenter.jpg;
+changeFigure:lisa/smile.png;
+miniAvatar:alyosha/novice/smile.png;
+丽兹:希望来咨询的人不要让你太难过~
+阿列克赛:希望如此，不过这边的咨询事务比学校那边的还是轻松多了。
+changeFigure:lisa/smile talk.png;
+丽兹:你学校那边的实习进行的怎么样。
+阿列克赛:因为是我第一次实习，所以进展其实很缓慢呢……
+丽兹:你的来访者不好对付吗？
+阿列克赛:依照咨询的协议，我是不能透露来访者的信息的哦。
+changeFigure:lisa/smile eye closed.png;
+丽兹:不过我知道你的来访者是谁哦，是你的哥哥吧？
+miniAvatar:alyosha/novice/suprised.png;
+阿列克赛:！！
+miniAvatar:alyosha/novice/sweatsmile.png;
+丽兹，我才刚刚说这件事呢……你怎么知道呢？
+丽兹:我的母亲告诉我的，她可能是从她结交的一个学生口中得知的，他应该是你的哥哥的哪个同学吧。
+阿列克赛:这样吗…….他竟然把这件事情说出去了……不过请原谅我，丽兹，你要是再问的话我就不会回答了……
+changeFigure:lisa/speaking normal.png;
+丽兹:放心吧，我对你哥哥没什么兴趣，我知道你们俩好像也不太了解彼此。
+不过请原谅我这样说，我也不喜欢你的那个哥哥
+miniAvatar:alyosha/novice/sweattalk.png;
+阿列克赛:咦，丽兹，你以前认识他吗？
+丽兹:谈不上认识，只是听过他以前的一些事情。
+miniAvatar:alyosha/novice/sweat.png;
+changeFigure:lisa/speaking eye move.png;
+你记得西边的那个片区吗，一年前我还没和母亲搬家的时候，曾经在那边的教堂那有件事情闹得挺大的，
+他的父亲在那个教堂里面和一个司祭起了争执，人们说当时他就站在旁边看着，什么都不说。
+说是事后他找那个司祭代父亲忏悔，但是两人好像没说几句话，人们看见他头也不回地出了教堂，但那位司祭还仍然对这件事心怀愧疚。
+我知道他好像是不信教的吧，所以去教堂还挺奇怪的。
+miniAvatar:alyosha/novice/sweatsmile.png;
+阿列克赛:怎么你比我还了解我的哥哥？这种传闻的话你也信吗？
+changeFigure:lisa/speaking normal.png;
+丽兹:我只是把我从母亲那边听来的花边新闻告诉你而已……
+我知道你以前一直都忙着学业，所以不是很清楚这些事情呢。
+因为你父亲的那个案子在有一段时间炒得沸沸扬扬，而且那个案子不是一直没有凶手吗？
+我母亲有一段时间对那件事情很感兴趣，所以就随便多问了别人几下，就是这样吧？
+miniAvatar:alyosha/novice/sweat.png;
+阿列克赛:（随便多问了几下竟然就比我都了解的多吗？）
+:（走廊的另一头有人叫着阿列克赛的名字，打断了两人的谈话）
+miniAvatar:alyosha/novice/eyemove.png;
+changeFigure:lisa/smile.png;
+丽兹:啊，听，杨格太太好像在叫你了
+看起来你今天可得有事情忙了，这样的话我就先走咯。
+changeFigure:lisa/smile eye closed.png;
+miniAvatar:alyosha/novice/smile.png;
+下次请你去我家那边吃饭~
+changeFigure:;
+:丽兹离开了。
+miniAvatar:none;
+changeBg:none;
+有些疑惑的阿列克赛换下了袍子，进入了社区中心的咨询室，准备迎接今早的来访者。
+changeBg:consultingcenter.jpg;
+changeScene:3.1.txt

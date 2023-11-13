@@ -1,0 +1,93 @@
+intro:本作与现实的个人、组织完全无关，与现实咨询完全无关，与现实心理学、精神疾病、精神医学无关。
+intro:本作含有色情内容，未成年请自觉退出游戏。
+intro:1960s 美国;
+intro:阿列克赛·费尧多罗维奇·卡拉马佐夫;
+intro:这位时年23的小伙子是美国犹他州一名正攻读心理学硕士学位的新晋咨询师。;
+intro:昨晚刚刚通宵赶完了第一学期末报告的他正在休息。;
+miniAvatar:alyosha/naked/normal.png;
+changeBg:alyoshabedroom.jpg;
+阿列克赛:啊啊，今天好像有些睡过头了;
+（看了一眼床头的闹钟）;
+miniAvatar:alyosha/naked/mouthopen.png;
+糟了糟了，竟然已经九点了吗！？;
+得赶快把报告交给导师去才行...;
+miniAvatar:alyosha/sweater/normal.png;
+intro:趁着人流还未逐渐增多，踏着学校的铃声，阿廖沙来到了学校;
+changeBg:schoolabbey.jpg -next;
+佐西玛:早上好，阿廖沙;
+changeFigure:zossima/normalspeak.png -right -next;
+miniAvatar:alyosha/sweater/speak.png;
+changeFigure:zossima/normal.png -right -next;
+阿列克赛:早上好，佐西玛导师。;
+这是我这学期的报告，请您查看。;
+miniAvatar:alyosha/sweater/normal.png;
+佐西玛:（接过报告）;
+changeFigure:zossima/normalspeak.png -right -next;
+好的，这学期其他的课题你完成的很好，我想交过这份报告过后，应该不会再有需要额外提交的内容了。;
+miniAvatar:alyosha/sweater/speaksmile.png;
+changeFigure:zossima/normal.png -right -next;
+阿列克赛:也非常感谢您的教导，完成课题比我预想的要顺利多了，嘿嘿。;
+miniAvatar:alyosha/sweater/normal.png;
+changeFigure:zossima/normalspeak.png -right -next;
+佐西玛:这份报告我就不在这里看了，稍晚一会的时候我会再详细查看一遍的。
+佐西玛:我有其他的事情要问你，阿廖沙，说起来，你的实习找到合适的地方了吗，;
+你没有到与我们学校合作的医院去做实习吗？;
+changeFigure:zossima/normal.png -right -next;
+miniAvatar:alyosha/sweater/speak.png;
+阿列克赛:啊，抱歉！因为课程的时间协调问题，我并没有去学校安排的实习项目，我正打算自己找社会来源的项目试试看...;
+changeFigure:zossima/normalspeak.png -right -next;
+miniAvatar:alyosha/sweater/normal.png;
+佐西玛:这样吗......;
+佐西玛:我这里刚好有一位来访咨询的请求可以算为你的实习项目，你愿意接手吗？;
+changeFigure:zossima/normal.png -right -next;
+miniAvatar:alyosha/sweater/speak.png;
+阿列克赛:如果是有您推荐的话，我想我就没有拒绝的借口了。
+changeFigure:zossima/normalspeak.png -right -next;
+佐西玛:那就太好了，实际上我之前就想告诉你了，阿廖沙。只不过看你最近太忙，所以现在才问。
+佐西玛:而且这位来访者是指名道姓地要你为他做咨询哦。
+miniAvatar:alyosha/sweater/amazed.png;
+阿列克赛:！！？
+miniAvatar:alyosha/sweater/worried.png;
+阿列克赛:佐西玛导师，我想知道谁会要我来专门为他做咨询呢......
+阿列克赛:我才刚刚转修心理学两年不到呢......
+阿列克赛:虽然实习对我来说非常重要，但是如果是如此珍重的请求的话，我的实践经验还如此的不足......这样会不会不太好呢？
+阿列克赛:我担心这会对那位来访者产生不太好的影响，就我个人的意见，他应该寻求更专业的人的咨询吧......
+changeFigure:zossima/normalsmile.png -right -next;
+佐西玛:哈哈，阿廖沙，我刚听到这个消息的时候也稍微吃惊了一下。
+佐西玛:不过我已经和来访者见过面了，我们已经进行了预备性会谈。
+miniAvatar:alyosha/sweater/amazed.png;
+阿列克赛:啊，真的吗，您已经和他见过面了？！
+changeFigure:zossima/normalspeak.png -right -next;
+佐西玛:我已经初步了解了那位来访者，而且我认为你可以接手这个事情，我同其他老师也已经协商过了，我们都觉得你很适合。
+佐西玛:我知道你可能会担心，不用太谦逊，阿廖沙，我认为以你的能力是没有问题的，而且我也希望你能够多加尝试。
+miniAvatar:alyosha/sweater/worried.png;
+阿列克赛:......
+miniAvatar:alyosha/sweater/speak.png;
+阿列克赛:......既然您说没问题，那好的，我愿意接手这位来访者。
+miniAvatar:alyosha/sweater/normal.png;
+changeFigure:zossima/normalsmile.png -right -next;
+佐西玛:太好了，那么稍后我会将这位来访的资料给你，你们协商好第一次咨询的时间就可以正式开始了，过程中与我随时沟通，你这次的督导还是我哦。
+miniAvatar:alyosha/sweater/speak.png;
+阿列克赛:好的。谢谢您，佐西玛导师。请容我多问一句，那位来访者究竟是谁呢？
+changeFigure:zossima/normalspeak.png -right -next;
+佐西玛:你看了资料以后就会知道了，阿廖沙，请容许我不能为你透露太多，我希望你自己学会去进行这次咨询，包括咨询前的准备哦。
+miniAvatar:alyosha/sweater/smile.png;
+阿列克赛:......好吧好吧，我会努力的，佐西玛导师。
+changeBg:none;
+changeFigure: -right;
+intro:......|谈话结束后，佐西玛将来访者的材料交递给了阿列克赛|在阅读资料的过程中，阿列克赛大致了解了来访者的信息......;
+miniAvatar:alyosha/sweater/think.png;
+阿列克赛:姓名，伊万·费尧多罗维奇·卡拉马佐夫，这不是我同父同母的哥哥吗......
+阿列克赛:我记得咨询师是不能够为直系亲属进行咨询的......
+阿列克赛:不过我与这位哥哥也好久没见面了......我很小的时候就与他分开了来着，印象不是很深......
+阿列克赛:不过也许也正是因为这个原因，所以佐西玛导师才专门让我来做这次咨询吗......
+阿列克赛:耶鲁大学基础物理硕士，两年前攻读博士学位，但目前进度停滞，自一年前其父因意外丧命后疑似出现创伤后应激综合症，但近三个月以来病情极度恶化，抑郁，躁狂，已无法完成课业......
+阿列克赛:据本人描述，“每天都能看见死人的幻影，”......
+阿列克赛:可怜的伊万......
+miniAvatar:alyosha/sweater/thinkover.png;
+阿列克赛:不过只有这些的话我也很难看出什么，只能从预备性会谈再继续入手了......
+intro:简要了解了来访者的信息，阿列克赛开始着手准备咨询的内容。;
+intro:在佐西玛的协调和沟通下，伊万的学校准许了进行第一次咨询，不久后，约定的咨询日期便到了;
+miniAvatar:alyosha/咨询/咨询普通.png;
+阿列克赛:请坐;
+changeScene:1.txt
